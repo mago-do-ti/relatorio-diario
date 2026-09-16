@@ -30,3 +30,9 @@ p {
   color: cyan;
   max-width: 570px;
 }
+
+.obs {
+  font-style: italic;
+  color: hsl(319, 100%, 60%);
+  font-size: 12px;
+}
