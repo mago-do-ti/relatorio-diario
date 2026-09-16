@@ -1,6 +1,3 @@
 # relatorio-diario
 
-<br>
-´´´
-Aqui está sendo comentado diariamente o foi aprendido ou feito.
-´´´
+```Aqui está sendo comentado diariamente o que foi aprendido ou feito.```
